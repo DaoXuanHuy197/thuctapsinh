@@ -53,7 +53,7 @@ man -k syslog
  [root@localhost ~]# man /usr/share/man/man1/mkdir.1.gz
 ```
 ### 1.7. man sections
-ý nghĩa các con số trong giấu ngoặc() khi dùng lệnh ``man``:  
+ý nghĩa các con số trong dấu ngoặc() khi dùng lệnh ``man``:  
 1: Các chương trình thực thi hoặc các lẹnh shell  
 2: Các cuộc gọi hệ thống (các chức năng được cung cấp bởi kernel)  
 3: Các cuộc gọi từ thư viện(các chức năng trong thư viện chương trình)  
